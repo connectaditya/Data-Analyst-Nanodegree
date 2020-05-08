@@ -37,13 +37,18 @@ Tip: Now that you've trimmed and cleaned your data, you're ready to move on to e
 #### Summary
 > **From the investegated data set "TMDb Movie Data", the follwing questions were explored:**
 
-> 1. What are the Top 10 Movies by Rating?
+ 
+> 1.Which movies are the most profitable to the market?
 
-> 2. What is the distribution of average movies ratings?
+> 2.Which movies have the most and least profit, budget and runtime?
 
-> 3. What is the Number of Produced Movies by Genres?
+> 3.How does popularity affect the profit?
 
-> 4. What is the maximum production for each genre number in a year?
+> 4.Which years do movies made the most profits?
+
+> 5.Average Runtime Of Movies From Year To Year?
+
+> 6.Which Genre Has The Highest Release Of Movies?
 
 > **Data Wrangling:**
 
@@ -67,82 +72,4 @@ Tip: Now that you've trimmed and cleaned your data, you're ready to move on to e
 There are some potential limitations to the analysis presented in this work and there are some potential areas were the given data could be explored such as:
 * The correlation between high budget movies and given rating. Does highly budgeted movies always get high ratings?
 
-#### Analysis vs. Results
 
->The analysis presented in this work sheet did answer my posed questions, I have included the answers to those questions in text below:
-
->**1. What are the Top 10 Movies by Rating?**
-
->        1. The Godfather
-        2. Whiplash
-        3. Bill Cunningham New York
-        4. Fight Club
-        5. The Dark Knight
-        6. Kill Bill: The Whole Bloody Affair
-        7. Schindler's List
-        8. Inside Out
-        9. Room
-        10.Intersteller
-
->**2. What is the distribution of average movies ratings?**
-
->        The average rating is fairly distributed among the different rating categories (High, Above Average, Medium, Low)
->        On average,
->        Low              499 Movies
->        Medium           526 Movies
->        Above Average    509 Movies
->        High             457 Movies
-        
->**3. What is the Number of Produced Movies by Genres?**
-
->     For this question, the cells containig genres was splitted to rows since genres was stored in one cell 
->     separated by '|'.
->     The chart "# of Movies by Genres Per Year" has been customized to show the counts for 5 years (2010-2015).
->     The chart is too condensed and very difficult to read. However, another chart was plotted to show the number of 
->     produced moveis. Result is below:
-     
-        
->        Action             532
->        Adventure          361
->        Animation          170
->        Comedy             640
->        Crime              262
->        Documentary         93
->        Drama              838
->        Family             233
->        Fantasy            202
->        Foreign              6
->        History             56
->        Horror             273
->        Music               72
->        Mystery            148
->        Romance            291
->        Science Fiction    291
->        TV Movie            16
->        Thriller           575
->        War                 44
->        Western             20
-
->**4. What is the maximum production for each genre number in a year?**
-
->        As shown in the heatmap plot, there were:
-        
->        Action Movies were highly produced in 2011 (60 Movies)
->        Adventure Movies were highly produced in 2010 (32 Movies)
->        Animation Movies were highly produced in 2009 (20 Movies)
->        Comedy Movies were highly produced in 2007 (75 Movies)
->        Crime Movies were highly produced in 2009 (24 Movies)
->        Documentary Movies were highly produced in 2010 (14 Movies)
->        Drama Movies were highly produced in 2010 (99 Movies)
->        Family Movies were highly produced in 2009 (24 Movies)
->        Foreign Movies were highly produced in 2007 (2 Movies)
->        History Movies were highly produced in 2015 (8 Movies)
->        Horror Movies were highly produced in 2010 (35 Movies)
->        Music Movies were highly produced in 2013 (9 Movies)
->        Mystery Movies were highly produced in 2009 (18 Movies)
->        Romance Movies were highly produced in 2009 (37 Movies)
->        Science Fiction Movies were highly produced in 2015 (35 Movies)
->        TV Movie Movies were highly produced in 2013 (4 Movies)
->        Thriller Movies were highly produced in 2011 (64 Movies)
->        War Movies were highly produced in 2014 (7 Movies)
->        Western Movies were highly produced in 2010 (5 Movies)
