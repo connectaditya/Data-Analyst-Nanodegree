@@ -78,14 +78,12 @@ Subjects Covered:
 * Multivariate exploration of data ( encodings , plot matrices , feature enginnering )
 * Explanatory Visulizations ( story telling with data ,  polish plots , create slide deck ) 
 
-### Project 5: Data Visulization with Diamond Data 
-Data visualization to a dataset involving the characteristics of diamonds and their prices.
 
-### Project 6: Communicate data finding with Ford Go Bike Sharing Data
+### Project 5: Communicate data finding with Ford Go Bike Sharing Data
 In this project, I used Python’s data visualization tools to systematically explore the bike dataset for
 its properties and relationships between variables. Then, I created a presentation that communicates the findings to others.
 
-![Imgur]()
+![Imgur](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/733fb486-e09b-4044-95c5-f33682382097.svg)
 
 
 
