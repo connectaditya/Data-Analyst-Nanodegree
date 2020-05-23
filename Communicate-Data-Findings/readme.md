@@ -1,7 +1,6 @@
 # (Ford Gobike Data Exploration)
 ## by (Aditya kumar)
 
-
 ## Dataset
 
 > This project is divided into two major parts. In the first part, you will conduct an exploratory data analysis on a dataset Ford GoBike System Data. I will use Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns and relationships. The analysis in this part should be structured, going from simple univariate relationships up through multivariate relationships. 
