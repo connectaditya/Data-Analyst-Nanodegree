@@ -85,5 +85,7 @@ its properties and relationships between variables. Then, I created a presentati
 
 ![Imgur](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/733fb486-e09b-4044-95c5-f33682382097.svg)
 
+all HackerRank problem solutions in one place. Find a solution for other domains and Sub-domain. I.e. Hacker Rank solution for <a target="_blank" href="https://www.chase2learn.com/hackerrank-c-programming-solutions/">HackerRank C Programming</a>, <a target="_blank" href="https://www.chase2learn.com/hackerrank-cpp-programming-solutions/">HackerRank C++ Programming</a>, <a target="_blank" href="https://www.chase2learn.com/hackerrank-java-programming-solutions/">HackerRank Java Programming</a>, <a target="_blank" href="https://www.chase2learn.com/python-hacker-rank-solution/">HackerRank Python Programming</a>, <a target="_blank" href="https://www.chase2learn.com/hackerrank-linux-shell-solutions/">HackerRank Linux Shell</a>, <a target="_blank" href="https://www.chase2learn.com/python-hacker-rank-solution/">HackerRank SQL Programming</a>, and <a target="_blank" href="https://www.chase2learn.com/hackerrank-10-days-of-javascript-solutions/">HackerRank 10 days of Javascript</a> , <a target="_blank" href="https://www.chase2learn.com/hackerrank-algorithms-solutions/">HackerRank Algorithms Solutions</a>, <a target="_blank" href="https://www.chase2learn.com/hackerrank-regex-solutions/">HackerRank Regex Solutions</a>, <a target="_blank" href="https://www.chase2learn.com/hackerrank-ruby-tutorial-solutions/">HackerRank Ruby Tutorial Solutions</a>
+
 
 
